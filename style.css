@@ -1,0 +1,58 @@
+*
+.banner{
+  background: url("img/bnr.jpg") no-repeat  center;
+  background-size: cover;
+  padding-top: 20%;
+  padding-bottom:20%;
+  color: #fff;
+}
+.lingkaran{
+  display:inline-block;
+  border-radius: 50%;
+  width: 150px;
+  margin: auto;
+  height: 150px;
+  color: #fff;
+  background-color: grey;  
+}
+.lingkaran i {
+  position: relative;
+  top: 30px;
+}
+.crop-img {
+  object-fit: cover;
+}
+.team img{
+  width: 250px;
+  border: 10px solid #bbbab8;
+}
+a.social{
+  display: inline-block;
+  width: 40px;
+  height: 40px;
+  color: #fff;
+  border-radius: 50%;
+  background-color: #333;
+  line-height: 40px;
+}
+a.navbar-brand{
+  font-family: 'Cookie', cursive;
+  font-family: 'Marck Script', cursive;
+}
+a.nav-link{
+  font-family: 'Cookie', cursive;
+  font-family: 'Hind', sans-serif;
+}
+h4{
+  font-family: 'Cookie', cursive;
+font-family: 'Courgette', cursive;
+}
+h2{
+  font-family: 'Barlow Semi Condensed', sans-serif;
+font-family: 'Cookie', cursive;
+}
+h3.mt-3{
+  font-family: 'Bubblegum Sans', cursive;
+  font-family: 'Cookie', cursive;
+  font-size: 3em;
+}
